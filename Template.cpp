@@ -1,4 +1,4 @@
-//USE G++ COMPILER
+//USE G++ COMPILER, C++ 20 Version
 #include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
@@ -17,11 +17,12 @@ void solve();
 signed main() {
   fastio();
   int t = 1; 
-  cin >> t; // Comment if One Test Case
+  cin >> t; // Comment if Single Test Case
   while (t--) solve();
   return 0;
 }
 
+// Solution
 void solve() {
 
 }
